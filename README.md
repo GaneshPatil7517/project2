@@ -1,4 +1,4 @@
-# My firat contribution for Gsoc 2026.
+# My first contribution for Gsoc 2026.
 This my Contribution for Gsoc this year.
 
 # About Me
